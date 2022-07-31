@@ -15,7 +15,7 @@ I always compared myself to others, but I realized that the most important thing
 
 # My Projects
 
-## Personal Portfolio - Summarize of my personal projects created with React.js and Firebase
+## Personal Portfolio - Summary of my personal projects created with React.js and Firebase
 
 <details>
 <summary>Click to expand!</summary>
