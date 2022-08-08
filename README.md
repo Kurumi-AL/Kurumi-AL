@@ -2,7 +2,7 @@
 
 ## Welcome to my Github 😄
 
-Hello! I am Bachelor of Computer Science student at Brigham Young University.
+Hello! I am a Bachelor of Computer Science student at Brigham Young University.
 
 ### What interests me?
 I love creating websites with technologies such as React.js and Firebase that are user friendly and fun to use.  
