@@ -6,7 +6,7 @@ Hello! I am a Bachelor of Computer Science student at Brigham Young University.
 
 ### What interests me?
 I love creating websites with technologies such as React.js and Firebase that are user friendly and fun to use.  
-I'm desipline and a hard worker, and this helped me learn new skills by myself.
+I'm descipline and a hard worker, and this helped me learn new skills by myself.
 
 ### What do I value?
 > Be the best version of you.
